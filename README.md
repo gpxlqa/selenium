@@ -8,3 +8,4 @@ Nesse repositório, o código executa testes funcionais em um site de gestão de
 - Java 1.8
 - Maven
 - JUnit
+- PageObjects
